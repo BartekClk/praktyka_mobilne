@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Praktyka_mobile" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">#000</item>
+        <item name="colorAccent">@color/text_light</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="main">
+        <item name="colorAccent">@color/text_light</item>
+    </style>
+
+    <style name="texts" parent="Base.Theme.Praktyka_mobile">
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="buttons" parent="Base.Theme.Praktyka_mobile">
+        <item name="backgroundColor">@color/navBar_primary</item>
+        <item name="colorPrimary">@color/text_light</item>
+    </style>
+</resources>

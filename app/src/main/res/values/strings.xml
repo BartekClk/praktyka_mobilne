@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Praktyka_mobile</string>
+    <string name="darkMode">Dark mode:</string>
+    <string name="changeSize">Change size:</string>
+    <string name="yourName">Type in your name</string>
+    <string name="surname" translatable="false">Celak</string>
+    <string name="name" translatable="false">Bartek</string>
+    <string name="hello">Hello:</string>
+    <string name="groceryList">Your Shopping list:</string>
+    <string name="add">add</string>
+    <string name="closeList">Close buying list</string>
+    <string name="lightMode">Light mode</string>
+    <string name="action2" translatable="false">To action2</string>
+    <string name="haveToProvideName">You have to provide name</string>
+</resources>

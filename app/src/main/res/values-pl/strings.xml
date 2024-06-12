@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Praktyka_mobile</string>
+    <string name="darkMode">Tryb ciemny</string>
+    <string name="changeSize">Zmień rozmiar:</string>
+    <string name="yourName">Podaj swoje imię</string>
+    <string name="hello">Witaj:</string>
+    <string name="groceryList">Twoja lista zakupów:</string>
+    <string name="add">dodaj</string>
+    <string name="closeList">Zamknij listę zakupów</string>
+    <string name="lightMode">Tryb jasny</string>
+    <string name="haveToProvideName">Musisz podać imię</string>
+</resources>
